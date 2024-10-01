@@ -1,4 +1,4 @@
-# Space Invaders Game
+# Space Invaders Game 👾🚀
 
 A simple 2D Space Invaders game built with HTML, CSS, and JavaScript. In this game, you control a spaceship and shoot down incoming alien invaders while avoiding their projectiles.
 
